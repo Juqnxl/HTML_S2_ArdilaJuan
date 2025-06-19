@@ -1,0 +1,43 @@
+*{
+    background-color: grey;
+}
+.titulo {
+    font-family: "Pacifico", cursive;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+}
+.contenido{
+    text-align: center;
+    display: flex;
+    margin: 10px;
+    margin-left: 10px;
+}
+.centro{
+    text-align: center;
+    margin: 100px;
+    margin-left: -200px;
+    margin-top: -420px;
+}
+.centroBajo{
+    text-align: center;
+    margin: 100px;
+    margin-left: -200px;
+    margin-top: 240px;
+    }
+.derecha{
+    text-align: center;
+    margin: -800px;
+    margin-left: -200px;
+    margin-top: -680px;
+}
+.foto {
+    width: 150px;
+    height: auto;
+    border-radius: 8px;
+}
+.info {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+
+}
+
