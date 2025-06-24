@@ -1,0 +1,181 @@
+html, body{
+    background-color: black;
+    top: 0px;
+    left: 2px;
+    width: 1918px;
+    height: 4149px;
+}
+.Ja{
+    width: 1920px;
+    height: 1080px;
+    margin: 0 auto;
+    position: relative;
+}
+.foto {
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+    background: transparent url('img/FondoTwitch.png');
+    opacity: 90.35;
+}
+.lupa{ 
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background: transparent url('img/Icon awesome-search.png');
+}
+.contenido{
+    position: absolute;
+    top: 73%;
+    left: 50%;
+    background-color: transparent;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    
+}
+.logo{
+    position: absolute;
+    top: 200px;
+    left: 682px;
+    background: transparent url('img/LogoPrimeE2.png');
+}
+.txt1{
+    font-family: 'AmazonEmber';
+    src: url('fonts/AmazonEmber-Regular.ttf') format('truetype');
+    font-family: 'AmazonEmber', sans-serif;
+    color: white;
+    font-size: 50px;
+    margin-top: -250px;
+}
+.txt2{
+    font-family: 'AmazonEmberLight', sans-serif;
+    src: url('../fonts/AmazonEmber-Light.ttf') format('truetype');
+    font-weight: 100;
+    font-size: 25px;
+    color: white;
+    line-height: 1.6;
+    background-color: transparent;
+}
+.txt3{
+    font-family: 'AmazonEmberLight', sans-serif;
+    src: url('../fonts/AmazonEmber-Light.ttf') format('truetype');
+    background-color: white;
+    color: black;
+    font-weight:500;
+    font-size: 40px;
+    width: fit-content;
+    padding: 15px 30px;
+    border-radius: 50px;
+    margin: 60px auto;
+}
+.txt4{
+    font-family: 'AmazonEmberLight', sans-serif;
+    src: url('../fonts/AmazonEmber-Light.ttf') format('truetype');
+    background-color: white;
+    color: black;
+    position: absolute;
+    font-weight:400;
+    font-size: 25px;
+    padding: 15px 70px;
+    border-radius: 50px;
+    top: -700px;
+    right: -450px;
+}
+.azul1{
+    background-color: transparent;
+    margin: 30px auto;
+    transform: translate(2%, 10%);
+    position: relative;
+}
+.txt5{
+    font-family: 'AmazonEmberLight', sans-serif;
+    src: url('../fonts/AmazonEmber-Light.ttf') format('truetype');
+    position: absolute;
+    font-weight: 100;
+    font-size: 77px;
+    color: white;
+    transform: translate(18%, -750%);
+}
+.tv{
+    position: absolute;
+    transform: translate(-510%, 230%);
+}
+.txt6{
+    font-family: 'AmazonEmberLight', sans-serif;
+    src: url('../fonts/AmazonEmber-Light.ttf') format('truetype');
+    position: absolute;
+    line-height: 1.5;
+    font-weight: 100;
+    font-size: 35px;
+    color: white;
+    transform: translate(13%, -150%);
+}
+.txt7{
+    font-family: 'AmazonEmberLight', sans-serif;
+    src: url('../fonts/AmazonEmber-Light.ttf') format('truetype');
+    position: absolute;
+    font-weight: 100;
+    font-size: 55px;
+    color: white;
+    transform: translate(16%, -1070%);
+}
+.peli1{
+    position: absolute;
+    transform: translate(-720%, 100%);
+}
+.peli2{
+    position: absolute;
+    transform: translate(-610%, 100%);
+}
+.peli3{
+    position: absolute;
+    transform: translate(-500%, 100%);
+}
+.peli4{
+    position: absolute;
+    transform: translate(-383%, 100%);
+}
+.peli5{
+    position: absolute;
+    transform: translate(-269%, 100%);
+}
+.txt8{
+    font-family: 'AmazonEmberLight', sans-serif;
+    src: url('../fonts/AmazonEmber-Light.ttf') format('truetype');
+    position: absolute;
+    font-weight: 100;
+    font-size: 33px;
+    color: white;
+    transform: translate(5%, -250%);
+}
+.txt9{
+    font-family: 'AmazonEmberLight', sans-serif;
+    src: url('../fonts/AmazonEmber-Light.ttf') format('truetype');
+    position: absolute;
+    font-weight: 100;
+    font-size: 55px;
+    color: white;
+    transform: translate(85%, -1070%);
+}
+.x{
+    position: absolute;
+    transform: translate(-559%, 200%);
+}
+.txt10{
+    font-family: 'AmazonEmberLight', sans-serif;
+    src: url('../fonts/AmazonEmber-Light.ttf') format('truetype');
+    position: absolute;
+    font-weight: 100;
+    font-size: 55px;
+    color: white;
+    transform: translate(8%, -150%);
+}
+.txt11{
+    font-family: 'AmazonEmberLight', sans-serif;
+    src: url('../fonts/AmazonEmber-Light.ttf') format('truetype');
+    position: absolute;
+    font-weight: 100;
+    font-size: 150px;
+    color: white;
+    transform: translate(20%, 50%);
+}
