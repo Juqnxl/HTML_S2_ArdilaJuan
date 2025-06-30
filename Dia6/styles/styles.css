@@ -28,4 +28,21 @@ html, body{
     left: 1200px;
     display: flex;
     gap: 20px;
+    cursor: pointer;
+}
+.j p::after{
+    content: "";
+    position: absolute;
+    width: 0%;
+    height: 3px;
+    background-color: rgb(255, 194, 80);
+    bottom: -5px;
+    left: 0;
+    transition: width 0.3s ease;
+}
+.j p:hover::after{
+    width: 100%;
+}
+.j p:hover {
+    color: rgb(255, 194, 80);
 }
