@@ -1,0 +1,14 @@
+html, body{
+    background-color: black;
+    top: 0px;
+    left: 2px;
+    width: 1918px;
+    height: 4149px;
+}
+.foto{
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+    background: transparent url('img/pexels-nao-triponez-129207.jpg');
+    opacity: 90.55;
+}
