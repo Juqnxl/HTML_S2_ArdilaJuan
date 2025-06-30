@@ -10,5 +10,12 @@ html, body{
     width: 1920px;
     height: 1080px;
     background: transparent url('img/pexels-nao-triponez-129207.jpg');
-    opacity: 90.55;
+}
+.logo{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    color: white;
+    font-size: 30px;
+    top: 1px;
+    right: 1460px;
 }
