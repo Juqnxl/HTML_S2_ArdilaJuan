@@ -46,3 +46,71 @@ html, body{
 .j p:hover {
     color: rgb(255, 194, 80);
 }
+.mitad{
+    font-family: 'Playfair Display', serif;
+    position: absolute;
+    color: white;
+    font-size: 100px;
+    left: 600px;
+    margin-top: -900px
+}
+.mitad1{
+    font-family: 'Playfair Display', serif;
+    position: absolute;
+    color: white;
+    font-size: 85px;
+    left: 600px;
+    margin-top: -260px;
+}
+.shop{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 194, 80);
+    color: black;
+    position: absolute;
+    font-size: 25px;
+    padding: 15px 70px;
+    left: 850px;
+    margin-top: -100px;
+    cursor: pointer;
+}
+.foto1{
+    width: 900px;
+    height: auto;
+    margin-top: 50px;
+}
+.divider {
+    position: absolute;
+    border: none;
+    height: 2px;
+    background-color: rgb(99, 99, 99);
+    width: 100px;
+    margin-top: -430px;
+    left: 1000px;
+}
+.foto11{
+    font-family: 'Playfair Display', serif;
+    position: absolute;
+    color: white;
+    font-size: 85px;
+    left: 1150px;
+    margin-top: -490px;
+}
+.foto12{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    color: white;
+    font-size: 30px;
+    left: 1150px;
+    margin-top: -330px;
+}
+.learn{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 194, 80);
+    color: black;
+    position: absolute;
+    font-size: 25px;
+    padding: 15px 70px;
+    left: 1150px;
+    margin-top: -200px;
+    cursor: pointer;
+}
